@@ -1,8 +1,8 @@
 ---
 title: "git_01"
-author: "Math_116"
-date: "Fall semester"
-output: html_document
+author: "Isabella Gonzalez"  
+date: "Spring semester"  
+output: html_document  
 ---
 
 ```{r setup, include=FALSE}
